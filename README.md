@@ -1,4 +1,6 @@
-coursera-compdata
-=================
+Coursera Computing for Data Analysis
+====================================
 
-My assignments from the Coursera Computing for Data Analysis course &lt;https://www.coursera.org/course/compdata>
+My assignments from the Coursera [Computing for Data Analysis][1] course, January 2 2013.
+
+[1]: https://www.coursera.org/course/compdata
